@@ -1146,7 +1146,7 @@ export default function CameraScroll(props) {
             position={[0, 2.7, -3.7]}
             fontSize={0.2}
             color="#f4eadb"
-            maxWidth={1}
+            maxWidth={0.5}
             material-opacity={0}                
         >
             Let's keep in touch !
